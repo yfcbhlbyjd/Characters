@@ -26,21 +26,20 @@ public class MainActivity extends AppCompatActivity {
         characters=new ArrayList<>();
         characters.add("Падучий Джими");
         characters.add("Джек");
-        characters.add("Тайлер Дерден");
         characters.add("Хайземберг");
         characters.add("Майкл");
         characters.add("Убермаргинал");
         characters.add("Большой Лебовски");
         characters.add("Декстер");
         characters.add("Боджек");
-        characters.add("Чендлер");
-        characters.add("Обито");
+        characters.add("Гилфойл");
+        characters.add("Эллиот");
         characters.add("Мартин Иден");
         characters.add("Георгий Замза");
         characters.add("Сквидвард");
         characters.add("Марк Спектер");
-        characters.add("Тони Сопрано");
-        characters.add("Бараш");
+        characters.add("Слава КПСС");
+        
     }
 
 }
